@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/JoniKristianK/Todo/issues"
   },
-  "homepage": "https://github.com/JoniKristianK/Todo#readme"
+  "homepage": "https://github.com/JoniKristianK/Todo#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.4",
+    "@babel/preset-react": "^7.14.5"
+  }
 }
