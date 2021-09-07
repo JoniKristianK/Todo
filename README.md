@@ -2,4 +2,4 @@
 
 **in Progress**
 
-TodoList with (React, Redux, Hooks, Thunk, Reselect, Styled-components, Babel. WebPack...)
+TodoList with (React, Redux, Hooks, Thunk, Reselect, Styled-components, Babel, WebPack...)
