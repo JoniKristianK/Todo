@@ -2,6 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 
 import { removeTodo, markTodoAsCompleted } from './actions';
+import { displayAlert } from './thunks';
 import NewTodoForm from './NewTodoForm';
 import TodoListItem from './TodoListItem';
 import './TodoList.css';
